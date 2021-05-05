@@ -26,13 +26,21 @@ If you have not already done so, make sure that you do the work for your [projec
 
 ## Load and Run a Notebook
 
-* In your project, click `Add to project` and choose `Notebook`:
+* Go the (☰) navigation menu and under the *Projects* section click on *`All Projects`*.
 
-![Add notebook](../assets/images/setup/cpd-add-notebook.png)
+![(☰) Menu -> Projects](../images/python/cpd-menu-projects.png)
 
-* Choose New notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBM/python-and-analytics/blob/master/notebooks/learning-python-3.ipynb`. Click `Create`:
+* Click the project name you created in the pre-work section.
 
-![Notebook from URL](../assets/images/setup/cpd-notebook-from-url.png)
+* From your `Project` overview page, click on the *`Assets`* tab to open the assets page where your project assets are stored and organized.
+
+* Scroll down to the `Notebooks` section of the page and click on the pencil icon at the right of the `learning-python-3` notebook.
+
+![open notebook](../images/python/python-open-notebook.png)
+
+* When the Jupyter notebook is loaded and the kernel is ready, we will be ready to start executing it.
+
+## Run the Jupyter notebook
 
 Spend some time looking through the sections of the notebook to get an overview. A notebook is composed of text (markdown or heading) cells and code cells. The markdown cells provide comments on what the code is designed to do.
 
