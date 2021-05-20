@@ -59,7 +59,7 @@ In Cloud Pak for Data, we use the concept of a project to collect / organize the
 
 * Click on the **browse** link and in the file browser popup, navigate to where you downloaded the files for this lab. Then select the `DDC2021-jumpstart-your-journey.zip`.
 
-[![Browse for project files](../images/setup/browse-project-zip.png)](../images/setup/browse-project-zip.png)
+[![Browse for project files](../assets/images/setup/browse-project-zip.png)](../assets/images/setup/browse-project-zip.png)
 
 * Give the project a name and optional description. You also need to provide an object storage instance for this project. If you have not previously created a Cloud Object Storage instance in your IBM Cloud account, you can create one now by clicking `Add`. *Note: If you do have an existing storage service, select it from the drop down list and click the `Create` button.*
 
@@ -101,17 +101,17 @@ You will need to associate a Watson Machine Learning service instance to your pr
 
 * Go to the *Settings* tab of your project and look for the *Associated services* section. Click on `Add service` and in the menu that opens up, click on `Watson`.
 
-[![Add Watson service](../images/setup/add-watson-service.png)](../images/setup/add-watson-service.png)
+[![Add Watson service](../assets/images/setup/add-watson-service.png)](../assets/images/setup/add-watson-service.png)
 
 * Click the checkbox next to the Watson Machine Learning service instance that was created for you when you signed up for Cloud Pak for Data as a Service or the one you created in section 2. Click `Associate service`.
 
   > **Note:** If you have multiple WatsonMachineLearning services, make sure you select the one that is in the same regions as is your Cloud Pak for Data as a service.
 
-[![Choose WML instance](../images/setup/choose-wml-instance.png)](../images/setup/choose-wml-instance.png)
+[![Choose WML instance](../assets/images/setup/choose-wml-instance.png)](../assets/images/setup/choose-wml-instance.png)
 
 * You willsee a notification that the WatsonMachineLearning service was successfully associated with your project. Click on the `X` in the right top corner to close the pop up modal and go back to your project.
 
-[![WML Service added successfully](../images/setup/wml-service-added-successfully.png)](../images/setup/wml-service-added-successfully.png)
+[![WML Service added successfully](../assets/images/setup/wml-service-added-successfully.png)](../assets/images/setup/wml-service-added-successfully.png)
 
 You are now ready to move on to the next module of this course.
 
