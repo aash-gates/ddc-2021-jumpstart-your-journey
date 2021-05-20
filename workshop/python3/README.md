@@ -28,7 +28,7 @@ If you have not already done so, make sure that you do the work for your [projec
 
 * Go the (☰) navigation menu and under the *Projects* section click on *`All Projects`*.
 
-![(☰) Menu -> Projects](../images/python/cpd-menu-projects.png)
+![(☰) Menu -> Projects](../assets/images/python/cpd-menu-projects.png)
 
 * Click the project name you created in the pre-work section.
 
@@ -36,7 +36,7 @@ If you have not already done so, make sure that you do the work for your [projec
 
 * Scroll down to the `Notebooks` section of the page and click on the pencil icon at the right of the `learning-python-3` notebook.
 
-![open notebook](../images/python/python-open-notebook.png)
+![open notebook](../assets/images/python/python-open-notebook.png)
 
 * When the Jupyter notebook is loaded and the kernel is ready, we will be ready to start executing it.
 
