@@ -16,7 +16,7 @@ Jupyter notebooks are an open-source web application that allows you to create a
 
 * Go the (☰) navigation menu and under the *Projects* section click on *`All Projects`*.
 
-![(☰) Menu -> Projects](../images/python/cpd-menu-projects.png)
+![(☰) Menu -> Projects](../assets/images/python/cpd-menu-projects.png)
 
 * Click the project name you created in the pre-work section.
 
@@ -24,7 +24,7 @@ Jupyter notebooks are an open-source web application that allows you to create a
 
 * Scroll down to the `Notebooks` section of the page and click on the pencil icon at the right of the `insurance-expenses-vizualization.ipynb` notebook.
 
-![open notebook](../images/dataviz/dataviz-open-notebook.png)
+![open notebook](../assets/images/dataviz/dataviz-open-notebook.png)
 
 * When the Jupyter notebook is loaded and the kernel is ready, we will be ready to start executing it in the next section.
 
