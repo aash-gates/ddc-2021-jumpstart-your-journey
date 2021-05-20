@@ -4,12 +4,12 @@ Before we get started with the workshop, you will need to download some assets a
 
 This section is broken up into the following steps:
 
-1. [Download Assets](#download-assets)
-1. [Create IBM Cloud Account and IBM Cloud Pak for Data services](#create-ibm-cloud-account-and-service)
-1. [Create a Project](#create-a-project)
-1. [Upload the data](#upload-the-data)
-1. [Associate a Watson Machine Learning Service instance to the project](#associate-a-watson-machine-learning-service-instance-to-the-project)
-1. [Conclusion](#conclusion)
+1. [Download Assets](#1-download-assets)
+1. [Create IBM Cloud Account and IBM Cloud Pak for Data services](#2-create-ibm-cloud-account-and-service)
+1. [Create a Project](#3-create-a-project)
+1. [Upload the data](#4-upload-the-data)
+1. [Associate a Watson Machine Learning Service instance to the project](#5-associate-a-watson-machine-learning-service-instance-to-the-project)
+1. [Conclusion](#6-conclusion)
 
 >**Note:** You can click on any image in the instructions below to zoom in and see more details. When you do that just click on your browser's back button to return to the previous page.
 
@@ -17,7 +17,7 @@ This section is broken up into the following steps:
 
 Various parts of this workshop will require the attendee to upload files or run scripts. These artifacts have been collected in the following two zip files which you can download using the links below. For each line below, click on the `[Download]` link to get the file. If the link isn't working for you, try clicking the `[Mirror]` to get it from a backup server. You'll need these files in the next sections.
 
-* Jumpstart your Journey with Cloud Pak for Data Project - [[Download]](http://ibm.biz/DDC2021-jumpstart-your-journey) | [[Mirror]](http://ibm.biz/DDC2021-jumpstart-your-journey-mirror)
+* Jumpstart your Journey with Cloud Pak for Data Project - [[Download]](http://ibm.biz/DDC2021-jumpstart-your-journey) | [[Mirror]](https://github.com/IBM/ddc-2021-jumpstart-your-journey/raw/main/projects/jumpstart-your-journey.zip)
 
 ## 2. Create IBM Cloud account and service
 
@@ -81,7 +81,7 @@ In Cloud Pak for Data, we use the concept of a project to collect / organize the
 
 [![Import project success](../assets/images/setup/project-create-success.png)](../assets/images/setup/project-create-success.png)
 
-## Upload the data
+## 4. Upload the data
 
 We'll use a data set from [Kaggle](https://www.kaggle.com/) for this workshop. You'll need to download it to your local machine, then upload to your project running in Cloud Pak for Data as a Service.
 
@@ -95,7 +95,7 @@ We'll use a data set from [Kaggle](https://www.kaggle.com/) for this workshop. Y
 
 [![Data upload completed](../assets/images/setup/cpd-data-upload-completed.png)](../assets/images/setup/cpd-data-upload-completed.png)
 
-## Associate a Watson Machine Learning Service instance to the project
+## 5. Associate a Watson Machine Learning Service instance to the project
 
 You will need to associate a Watson Machine Learning service instance to your project in order to run Machine Learning experiments.
 
@@ -137,6 +137,6 @@ A: You must already have an IBMid account. Follow the login link provided in the
 
 A: This means you have previously created some Watson services in a different region. To resolve this, go to the [CP4DaaS Login](https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all) page, select the region you had previously used and then login using the login link at the bottom right. Alternatively, you can create a new account and proceed as a new user to follow along.
 
-## Conclusion
+## 6. Conclusion
 
 At this point we are done with this section. We have completed creating an IBM Cloud account, a Cloud Pak for Data as a Service instance, and the project that we will use in the rest of this workshop.
