@@ -17,16 +17,16 @@ We will use some public datasets to build and deploy two different model pipelin
 
 - When you are signed up click `Create Resource` at the top of the Resources page. You can find the resources under the hamburger menu at the top left:
 
- ![](Images/Create_resource.png)
+ ![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/tree/master/Images/Create_resource.png)
  
 - Search for Watson Studio and click on the tile:
 
-![](Images/Watson_Studio.png)
+![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/tree/master/Images/Watson_Studio.png)
 
 - Select the Lite plan and click `Create`.
 - Go back to the Resources list and click on your Watson Studio service and then click `Get Started`. 
 
-![](Images/launch.png)
+![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/tree/master/Images/launch.png)
 
 ## IBM Watson Studio
 
@@ -42,13 +42,13 @@ We will use some public datasets to build and deploy two different model pipelin
 - Give your Project a name.
 - Select an Object Storage from the drop-down menu or create a new one for free. This is used to store the notebooks and data. **Do not forget to click refresh when returning to the Project page.**
 
-![](Images/COS.png)
+![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/tree/master/Images/COS.png)
 
 - click `Create`.  
 
 ### Once you are in the Project Dashboard, click on "Add to Project" on the top right and select AutoAI Experiment 
 
-![](Images/AutoAI.png)
+![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/tree/master/Images/AutoAI.png)
 
 ### Associate a Machine Learning service 
 
@@ -56,7 +56,7 @@ We will use some public datasets to build and deploy two different model pipelin
 - Associate a Watson Machine Learning service, if you have already created one this will apear in the dropdown or you can create a new one. 
 - Once this is done, click the "Reload" button for your Machine Learning service to appear 
 
-![](Images/MLservice.png)
+![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/tree/master/Images/MLservice.png)
 
 
 - Your machine learning service will appear under "Associated services"
@@ -70,7 +70,7 @@ We will use some public datasets to build and deploy two different model pipelin
 https://www.kaggle.com/noordeen/insurance-premium-prediction
 
 
-![](Images/Data_Source.png)
+![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/tree/master/Images/Data_Source.png)
 
 
 ## We will now work through the different aspects of configuring our AutoAI experiment and discuss the Classification Models that are created. 
