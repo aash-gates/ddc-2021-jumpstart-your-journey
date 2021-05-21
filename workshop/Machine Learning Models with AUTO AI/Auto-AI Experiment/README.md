@@ -65,7 +65,7 @@ We will use some public datasets to build and deploy two different model pipelin
 ### Upload your Data Sets
 
 - Browse and add your Data source 
-- Datasets for this workshop have been acquired from : 
+- The dataset for this workshop have been acquired from : 
 
 https://www.kaggle.com/noordeen/insurance-premium-prediction
 
