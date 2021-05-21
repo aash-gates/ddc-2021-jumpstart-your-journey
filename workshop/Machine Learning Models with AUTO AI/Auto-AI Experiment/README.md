@@ -73,5 +73,5 @@ https://www.kaggle.com/noordeen/insurance-premium-prediction
 ![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/tree/master/Images/Data_Source.png)
 
 
-## We will now work through the different aspects of configuring our AutoAI experiment and discuss the Classification Models that are created. 
+## We will now work through the different aspects of configuring our AutoAI experiment and discuss the pipelines that are created. 
 
