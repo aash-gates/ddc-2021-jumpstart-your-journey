@@ -7,7 +7,7 @@ For the workshop we will be using AutoAI, a graphical tool that analyses your da
 
 Using AutoAI, you can build and deploy a machine learning model with sophisticated training features and no coding.
 
-We will use some public datasets to build and deploy two different model pipelines, and analyse each of these models.
+We will a public dataset to build and deploy model pipelines, and analyse the outcome.
 
 ## Set up
 
