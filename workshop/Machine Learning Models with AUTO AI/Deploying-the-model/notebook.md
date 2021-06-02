@@ -12,7 +12,9 @@
 
 ![](https://github.com/YaminiRao/ddc-2021-jumpstart-your-journey/blob/patch-1/workshop/assets/images/setup/notebook.png)
 
-###  Once you click create the notebook will be created for you to access within the project.
+
+####  Once you click create the notebook will be created for you to access within the project.
+
 
 ![](https://github.com/YaminiRao/ddc-2021-jumpstart-your-journey/blob/patch-1/workshop/assets/images/setup/notebook-2.png)
 
