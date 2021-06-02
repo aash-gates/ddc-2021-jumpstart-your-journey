@@ -55,4 +55,9 @@ https://www.kaggle.com/noordeen/insurance-premium-prediction
 
 
 ### In this module, we will work through the different aspects of configuring our AutoAI experiment and discuss the outcome of the experiment.
+<br>
 
+
+## Part 2
+
+## [Deploying the model](https://github.com/YaminiRao/ddc-2021-jumpstart-your-journey/tree/patch-1/workshop/Machine%20Learning%20Models%20with%20AUTO%20AI/Deploying-the-model) 
