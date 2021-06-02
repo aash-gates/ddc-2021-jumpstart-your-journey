@@ -28,6 +28,7 @@
 ![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/blob/master/Images/Deploy_type.png)
 
 
+<b> Once your model is successuly deployed, you can access the API reference to make API calls or Test your model by providing input using a form or in a JSON format </b>
+
 ![](https://github.com/YaminiRao/ddc-2021-jumpstart-your-journey/blob/patch-1/workshop/assets/images/setup/model-test.png)
 
-<b> Once your model is successuly deployed, you can access the API reference to make API calls or Test your model by providing input using a form or in a JSON format </b>
