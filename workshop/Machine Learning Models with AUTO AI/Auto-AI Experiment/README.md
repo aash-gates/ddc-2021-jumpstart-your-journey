@@ -11,9 +11,9 @@ We will a public dataset to build and deploy model pipelines, and analyse the ou
 
 ## Set up
 
-Follow the steps in [this module](https://github.com/IBM/ddc-2021-jumpstart-your-journey/tree/main/workshop/project-setup) to create your IBM cloud account,Watson Studio Service.
+Follow the steps in [this module](https://github.com/IBM/ddc-2021-jumpstart-your-journey/tree/main/workshop/project-setup) to create your IBM cloud account and Watson Studio Service.
 
-- Once you are in Watson Studio in Watson Studio, you can create a new project by clicking on `Get Started` and `New Project`, or `Create Project` or work with an exisiting project as well. 
+- Once you are in Watson Studio, you can create a new project by clicking on `Get Started` and `New Project`, or `Create Project` or work with an exisiting project as well. 
 
 
 ![](https://github.com/YaminiRao/Data-Visualisation-with-Python/blob/master/Images/Watson_Studio.png)
