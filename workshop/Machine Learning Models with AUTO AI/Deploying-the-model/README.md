@@ -3,7 +3,7 @@
 
 - Once you select your final model pipeline. You can choose to Save it as a notebook or an ML model. 
 
-- Choose your option and Click Save 
+- Choose **model** and click save  
 
 ![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/blob/master/Images/MLModel.png)
 
