@@ -54,5 +54,5 @@ https://www.kaggle.com/noordeen/insurance-premium-prediction
 ![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/blob/master/Images/experiment-2.png)
 
 
-## In this module, we will work through the different aspects of configuring our AutoAI experiment and discuss the pipelines that are created. 
+### In this module, we will work through the different aspects of configuring our AutoAI experiment and discuss the outcome of the experiment.
 
