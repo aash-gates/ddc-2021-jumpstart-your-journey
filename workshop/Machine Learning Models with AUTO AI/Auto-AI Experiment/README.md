@@ -38,21 +38,21 @@ Follow the steps in [this module](https://github.com/IBM/ddc-2021-jumpstart-your
 ### Upload your Data Sets
 
 - Browse and add your Data source 
-- The dataset for this workshop have been acquired from : 
+- The dataset for this workshop has been acquired from : 
 
 https://www.kaggle.com/noordeen/insurance-premium-prediction
 
 
 ![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/blob/master/Images/Data_Source.png)
 
-- Once your dataset is successfully uploaded, you will see an option to choose your prediction column. Optionally, you can also refer to the experiment settings to make changes to the AutoAI Experiment. Once done, click on Run Experiment. 
+- Once your dataset is successfully uploaded, you will see an option to choose your **prediction column**. Optionally, you can also refer to the experiment settings to make changes to the AutoAI Experiment. Once done, click on Run Experiment. 
 
 ![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/blob/master/Images/experiment.png)
 
-## Completed AutoAI experiment 
+### Completed AutoAI experiment 
 
 ![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/blob/master/Images/experiment-2.png)
 
 
-### In this module we will work through the different aspects of configuring our AutoAI experiment and discuss the pipelines that are created. 
+## In this module, we will work through the different aspects of configuring our AutoAI experiment and discuss the pipelines that are created. 
 
