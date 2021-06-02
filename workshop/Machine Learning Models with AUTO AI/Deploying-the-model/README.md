@@ -32,3 +32,7 @@
 
 ![](https://github.com/YaminiRao/ddc-2021-jumpstart-your-journey/blob/patch-1/workshop/assets/images/setup/model-test.png)
 
+
+## Part 2
+
+## [Saving your pipeline as a notebook](notebook.md) 
