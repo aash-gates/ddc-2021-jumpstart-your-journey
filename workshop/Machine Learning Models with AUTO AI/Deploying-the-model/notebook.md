@@ -3,7 +3,7 @@
 
 - You can create a notebook if you want to view the code that created the model pipeline or interact with with the model programatically.
 
-- Select the pipeline of your choice and choose the notebook option. 
+- Select the pipeline of your choice and click **save as** and choose the notebook option.
 
 - You can choose the **notebook type** as a WML notebook to work with a trained model in a notebook, review and update the code, view visualisations and also deploy the model with Watson Machine Learning. 
 
