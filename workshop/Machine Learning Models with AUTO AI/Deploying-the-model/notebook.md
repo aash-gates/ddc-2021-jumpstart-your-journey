@@ -1,7 +1,7 @@
 
 ### Saving your pipeline as a notebook 
 
-- You can create a notebook if you want to view the code that created the model pipeline or interact with with the model programatically.
+- You can create a notebook if you want to view the code that created the model pipeline or interact with the model programatically.
 
 - Select the pipeline of your choice and click **save as** and choose the notebook option.
 
