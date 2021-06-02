@@ -11,40 +11,13 @@ We will a public dataset to build and deploy model pipelines, and analyse the ou
 
 ## Set up
 
-## IBM Cloud
+Follow the steps in [this module](https://github.com/IBM/ddc-2021-jumpstart-your-journey/tree/main/workshop/project-setup) to create your IBM cloud account,Watson Studio Service.
 
-- Sign up for an IBM Cloud account
-
-- When you are signed up click `Create Resource` at the top of the Resources page. You can find the resources under the hamburger menu at the top left:
-
- ![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/blob/master/Images/Create_resource.png)
- 
-- Search for Watson Studio and click on the tile:
-
-![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/blob/master/Images/Watson_Studio.png)
-
-- Select the Lite plan and click `Create`.
-- Go back to the Resources list and click on your Watson Studio service and then click `Get Started`. 
-
-![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/blob/master/Images/launch.png)
-
-## IBM Watson Studio
-
-### Create a new Project
-
-- You should now be in Watson Studio.
-- Create a new project by clicking on `Get Started` and `New Project`, or `Create Project`
+- Once you are in Watson Studio in Watson Studio, you can create a new project by clicking on `Get Started` and `New Project`, or `Create Project` or work with an exisiting project as well. 
 
 
 ![](https://github.com/YaminiRao/Data-Visualisation-with-Python/blob/master/Images/Watson_Studio.png)
 
-
-- Give your Project a name.
-- Select an Object Storage from the drop-down menu or create a new one for free. This is used to store the notebooks and data. **Do not forget to click refresh when returning to the Project page.**
-
-![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/blob/master/Images/COS.png)
-
-- click `Create`.  
 
 ### Once you are in the Project Dashboard, click on "Add to Project" on the top right and select AutoAI Experiment 
 
