@@ -1,10 +1,21 @@
-# Data Visualization in Python using Matplotlib and Seaborn
+# Data exploration in Python using pandas
 
-In this module of the course, we will use some of the libraries available with Python and Jupyter to examine our data set. In order to better understand the data, we can use visualizations such as charts, plots, and graphs. We'll use some common tools such as [`matplotlib`](https://matplotlib.org/users/index.html)  and [`seaborn`](https://seaborn.pydata.org/index.html) and gather some statistical insights into our data.
+### What is data preprocessing?
 
-We'll continue to use the [`insurance.csv`](https://www.kaggle.com/noordeen/insurance-premium-prediction/download) file from your project assets, so if you have not already [`downloaded this file`](https://www.kaggle.com/noordeen/insurance-premium-prediction/download) to your local machine, and uploaded it to your project, do that now.
+Process of converting raw data into useful format.In order to better understand the data, we need to gather some statistical insights into our data. In this module of the course, we will use some of the libraries available with Python and Jupyter to examine our data set. 
 
-If you have not already done so, make sure that you do the work for your [project setup](../project-setup/README.md)
+### What is pandas?
+
+[pandas](https://pandas.pydata.org/) is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
+built on top of the Python programming language.
+
+### Data
+
+We'll use a data set from [Kaggle](https://www.kaggle.com/) for this workshop. You'll need to download it to your local machine, then upload to your project running in Cloud Pak for Data as a Service.
+
+The *insurance.csv* dataset acquired from *Kaggle*  contains 1338 observations (rows) and 7 features (columns). The dataset contains 4 numerical features (age, bmi, children and expenses) and 3 categorical features (sex, smoker and region).
+
+We'll continue to use the [`insurance.csv`](https://www.kaggle.com/noordeen/insurance-premium-prediction/download) file from you project assets, so if you have not already [`downloaded this file`](https://www.kaggle.com/noordeen/insurance-premium-prediction/download) to your local machine, and uploaded it to your project, do that now.
 
 ## Getting Started with Jupyter Notebooks
 
@@ -22,9 +33,9 @@ Jupyter notebooks are an open-source web application that allows you to create a
 
 * From your `Project` overview page, click on the *`Assets`* tab to open the assets page where your project assets are stored and organized.
 
-* Scroll down to the `Notebooks` section of the page and click on the pencil icon at the right of the `insurance-expenses-vizualization.ipynb` notebook.
+* Scroll down to the `Notebooks` section of the page and click on the pencil icon at the right of the `insurance_premium_pandas_preprocessing.ipynb` notebook.
 
-![open notebook](../assets/images/dataviz/dataviz-open-notebook.png)
+![open notebook](../assets/images/dataexp/dataexp-open-notebook.png)
 
 * When the Jupyter notebook is loaded and the kernel is ready, we will be ready to start executing it in the next section.
 
@@ -52,4 +63,4 @@ You will run cells individually by highlighting each cell, then either click the
 
 ## Continue to run the notebook
 
-* Finishing running all of the cells. Carefully read all of the markdown comments to gain some understanding of how data vizualization can be use to gain insight into the data set.
+* Finish running all of the cells. Carefully read all of the markdown comments to gain some understanding of how data analysis and manipulation can be done to gain insight into the data set.
