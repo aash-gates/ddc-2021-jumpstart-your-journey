@@ -1,14 +1,22 @@
-# Data Visualization in Python using Matplotlib and Seaborn
+# Machine learning using scikit-learn
 
-In this module of the course, we will use some of the libraries available with Python and Jupyter to examine our data set. In order to better understand the data, we can use visualizations such as charts, plots, and graphs. We'll use some common tools such as [`matplotlib`](https://matplotlib.org/users/index.html)  and [`seaborn`](https://seaborn.pydata.org/index.html) and gather some statistical insights into our data.
+### What is regression in machine learning?
 
-We'll continue to use the [`insurance.csv`](https://www.kaggle.com/noordeen/insurance-premium-prediction/download) file from your project assets, so if you have not already [`downloaded this file`](https://www.kaggle.com/noordeen/insurance-premium-prediction/download) to your local machine, and uploaded it to your project, do that now.
+**Regression** is when the feature to be predicted contains continuous values. Regression refers to the process of predicting a dependent variable by analyzing the relationship between other independent variables. There are several algorithms known to us that help us in excavating these relationships to better predict the value.
 
-If you have not already done so, make sure that you do the work for your [project setup](../project-setup/README.md)
+### scikit-learn
+
+In this notebook, we'll use [scikit-learn](https://scikit-learn.org/stable/) to predict values. Scikit-learn is an open source machine learning library that supports supervised and unsupervised learning. It also provides various tools for model fitting, data preprocessing, model selection and evaluation, and many other utilities.
+
+To help visualize what we are doing, we'll use visualizations with *matplotlib* python library.
+
+### Data
+
+We'll continue to use the [`insurance.csv`](https://www.kaggle.com/noordeen/insurance-premium-prediction/download) file from you project assets, so if you have not already [`downloaded this file`](https://www.kaggle.com/noordeen/insurance-premium-prediction/download) to your local machine, and uploaded it to your project, do that now.
 
 ## Getting Started with Jupyter Notebooks
 
-Instead of writing code in a text file and then running the code with a Python command in the terminal, you can do all of your data analysis in one place. Code, output, tables, and charts can all be edited and viewed in one window in any web browser with [Jupyter Notebooks](https://jupyter.org/). As the name suggests, this is a notebook to keep all of your ideas and data explorations in one place. 
+Instead of writing code in a text file and then running the code with a Python command in the terminal, you can do all of your data analysis in one place. Code, output, tables, and charts can all be edited and viewed in one window in any web browser with [Jupyter Notebooks](https://jupyter.org/). As the name suggests, this is a notebook to keep all of your ideas and data explorations in one place.
 
 Jupyter notebooks are an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text.
 
@@ -22,9 +30,9 @@ Jupyter notebooks are an open-source web application that allows you to create a
 
 * From your `Project` overview page, click on the *`Assets`* tab to open the assets page where your project assets are stored and organized.
 
-* Scroll down to the `Notebooks` section of the page and click on the pencil icon at the right of the `insurance-expenses-vizualization.ipynb` notebook.
+* Scroll down to the `Notebooks` section of the page and click on the pencil icon at the right of the `predict-insurance-expenses-regression-with-sklearn.ipynb` notebook.
 
-![open notebook](../assets/images/dataviz/dataviz-open-notebook.png)
+![open notebook](../assets/images/mlsklearn/mlsklearn-open-notebook.png)
 
 * When the Jupyter notebook is loaded and the kernel is ready, we will be ready to start executing it in the next section.
 
@@ -52,4 +60,4 @@ You will run cells individually by highlighting each cell, then either click the
 
 ## Continue to run the notebook
 
-* Finishing running all of the cells. Carefully read all of the markdown comments to gain some understanding of how data vizualization can be use to gain insight into the data set.
+* Finish running all of the cells. Carefully read all of the markdown comments to gain some understanding of how to build, test and evaluate a machine learning model using sklearn.
