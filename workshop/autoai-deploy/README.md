@@ -35,4 +35,4 @@
 
 
 
-## [Saving your pipeline as a notebook](notebook.md) 
+## [Saving your pipeline as a notebook](../autoai-notebook/notebook.md) 

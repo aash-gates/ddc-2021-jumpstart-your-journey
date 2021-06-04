@@ -7,15 +7,15 @@ Welcome to the course! In this course we'll be using Jupyter notebooks to learn 
 | Topic | Description | Time |
 | - | - | - |
 | Welcome | Introduction to course | 00:05 |
-| Lecture: Basics of Python, Jupyter, and Pandas | Background on Python programming languge, The Jupyter notebook tool, and the Pandas Python library |  00:05 |
 | [Project setup](project-setup/README.md) | Setup your project for the workshop | 00:10 |
 | [Getting started with Python3](python3/README.md) | Learn the basics of Python | 00:15 |
-| [Using Python Pandas for Data Science](python-pandas/README.md) | Use Pandas for data visualisation | 00:20 |
+| [Data Visualization with Matplotlib and Seaborn](data-visualization/README.md) | Use Matplotlib and Seaborn for data visualisation | 00:20 |
+| [Using Pandas DataFrames](data-exploration-pandas/README.md) | Use a Pandas DataFrame | 00:10 |
+| [Build a Machine Learning Model with Scikit Learn](machine-learning-sklearn/README.md) | Build a machine learning model with Scikit Learn | 00:20 |
+| [Build a Machine Learning Model with AutoAI](autoai-build/README.md) | Build a machine learning model with AutoAI| 00:15 |
+| [Deploy and Test Machine Learning Model with AutoAI](autoai-deploy/README.md) | Deploy and test machine learning model with AutoAI| 00:15 |
 | Wrap Up | Review of workshop and Preview of next steps | 00:05 |
-<!-- | [Using Pandas DataFrames](work-with-dataframe/README.md) | Use a Pandas DataFrame | 00:10 | 
-| [Build a Machine Learning Model with Scikit Learn](scikit-learn/README.md | Build a machine learning model with Scikit Learn | 00:20 |
-| [Build a Machine Learning Model with AutoAI](autoai/README.md | Build a machine learning model with AutoAI| 00:15 |
-| [Deploy and Test Machine Learning Model with AutoAI](autoai/README.md | Deploy and test machine learning model with AutoAI| 00:15 | -->
+
 
 ## Compatability
 
