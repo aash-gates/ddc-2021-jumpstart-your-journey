@@ -19,8 +19,8 @@ nav:
     - Using Pandas for data scinece: data-exploration-pandas/README.md
     - Using Python and Jupyter to Visualize data: data-visualization/README.md
     - Machine Learning with Scikit Learn: machine-learning-sklearn/README.md
-    - Build and Deploy Custom AI Predictive Models Part 1 - Intro & Building: Machine Learning Models with AUTO AI/Auto-AI Experiment
-    - Build and Deploy Custom AI Predictive Models Part 2 - Deploying & Analyzing: Machine Learning Models with AUTO AI/Deploying-the-model
+    - Build and Deploy Custom AI Predictive Models Part 1 - Intro & Building: autoai-build/README.md 
+    - Build and Deploy Custom AI Predictive Models Part 2 - Deploying & Analyzing: autoai-deploy/README.md
   - Workshop Resources:
       - IBM Developer: https://developer.ibm.com
 
