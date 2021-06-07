@@ -14,6 +14,7 @@ Welcome to the course! In this course we'll be using Jupyter notebooks to learn 
 | [Build a Machine Learning Model with Scikit Learn](machine-learning-sklearn/README.md) | Build a machine learning model with Scikit Learn | 00:20 |
 | [Build a Machine Learning Model with AutoAI](autoai-build/README.md) | Build a machine learning model with AutoAI| 00:15 |
 | [Deploy and Test Machine Learning Model with AutoAI](autoai-deploy/README.md) | Deploy and test machine learning model with AutoAI| 00:15 |
+| [Claiming your Badge](claim-your-badge/README.md) | Claim your badge here | 00:10 |
 | Wrap Up | Review of workshop and Preview of next steps | 00:05 |
 
 
