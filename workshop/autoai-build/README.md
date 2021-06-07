@@ -11,17 +11,11 @@ We will a public dataset to build and deploy model pipelines, and analyse the ou
 
 ## Set up
 
-Follow the steps in [this module](https://github.com/IBM/ddc-2021-jumpstart-your-journey/tree/main/workshop/project-setup) to set up your IBM cloud account and Watson Studio Service.
-
-- Once you are in Watson Studio, you can create a new project by clicking on `Get Started` and `New Project`, or `Create Project` or work with an exisiting project as well. 
-
-
-![](https://github.com/YaminiRao/Data-Visualisation-with-Python/blob/master/Images/Watson_Studio.png)
-
+Make sure that you have followed the steps in the [project setup](../project-setup/README.md) to create a project and set up your IBM Cloud account and Cloud Pak for Data as a Service.
 
 ### Once you are in the Project Dashboard, click on "Add to Project" on the top right and select AutoAI Experiment 
 
-![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/blob/master/Images/AutoAI.png)
+![Add AutoAI experiment](../assets/images/autoai/AutoAI.png)
 
 ### Associate a Machine Learning service 
 
@@ -29,35 +23,28 @@ Follow the steps in [this module](https://github.com/IBM/ddc-2021-jumpstart-your
 - Associate a Watson Machine Learning service, if you have already created one this will apear in the dropdown or you can create a new one. 
 - Once this is done, click the "Reload" button for your Machine Learning service to appear 
 
-![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/blob/master/Images/MLservice.png)
-
+![Add Machine Learning service](../assets/images/autoai/MLservice.png)
 
 - Your machine learning service will appear under "Associated services"
 - Click Create 
 
 ### Upload your Data Sets
 
-- Browse and add your Data source 
-- The dataset for this workshop has been acquired from : 
+- Browse and add your Data source. You will have already added *insurance.csv* to your project assets in the [project setup](../project-setup/README.md) steps. Click `Select from project` and choose the *insurance.csv* file.
 
-https://www.kaggle.com/noordeen/insurance-premium-prediction
-
-
-![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/blob/master/Images/Data_Source.png)
+![Add Data set](../assets/images/autoai/Data_Source.png)
 
 - Once your dataset is successfully uploaded, you will see an option to choose your **prediction column**. Optionally, you can also refer to the experiment settings to make changes to the AutoAI Experiment. Once done, click on Run Experiment. 
 
-![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/blob/master/Images/experiment.png)
+![Choose prediction column](../assets/images/autoai/experiment.png)
 
 ### Completed AutoAI experiment 
 
-![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/blob/master/Images/experiment-2.png)
+- The experiment will take approximagely 20 minutes to run. You can check on the progress during that time. When completed, it will show the results of the exeriment.
 
+![AutoAI experiment completed](../assets/images/autoai/experiment-2.png)
 
-### In this module, we will work through the different aspects of configuring our AutoAI experiment and discuss the outcome of the experiment.
+### In the next module, we will work through the different aspects of configuring our AutoAI experiment and discuss the outcome of the experiment.
 <br>
 
-
-## Part 2
-
-## [Deploying the model](https://github.com/YaminiRao/ddc-2021-jumpstart-your-journey/tree/patch-1/workshop/Machine%20Learning%20Models%20with%20AUTO%20AI/Deploying-the-model) 
+## [Deploying the model](../autoai-deploy/README.md)
