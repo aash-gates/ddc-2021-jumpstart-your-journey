@@ -9,13 +9,8 @@
 
 - OR you can choose to save it as a AutoAI_lib notebook where you can view the sci-kit learn source code for the trainel model in the notebook. 
 
-
-![](https://github.com/YaminiRao/ddc-2021-jumpstart-your-journey/blob/patch-1/workshop/assets/images/setup/notebook.png)
-
+![Save model as a notebook](../assets/images/autoai/notebook.png)
 
 #### - Once you click create the notebook will be created for you to access within the project.
 
-
-![](https://github.com/YaminiRao/ddc-2021-jumpstart-your-journey/blob/patch-1/workshop/assets/images/setup/notebook-2.png)
-
-
+![view AutoAI notebook](../assets/images/autoai/notebook.png)
