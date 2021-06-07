@@ -21,6 +21,8 @@ nav:
     - Machine Learning with Scikit Learn: machine-learning-sklearn/README.md
     - Build and Deploy Custom AI Predictive Models Part 1 - Intro & Building: Machine Learning Models with AUTO AI/Auto-AI Experiment
     - Build and Deploy Custom AI Predictive Models Part 2 - Deploying & Analyzing: Machine Learning Models with AUTO AI/Deploying-the-model
+  - Badge:
+    - How to claim your badge: claim-your-badge/README.md
   - Workshop Resources:
       - IBM Developer: https://developer.ibm.com
 
