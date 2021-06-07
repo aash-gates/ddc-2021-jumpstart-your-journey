@@ -22,8 +22,6 @@ nav:
     - Build and Deploy Custom AI Predictive Models Part 1 - Intro & Building: autoai-build/README.md 
     - Build and Deploy Custom AI Predictive Models Part 2 - Deploying & Analyzing: autoai-deploy/README.md
     - Build and Deploy Custom AI Predictive Models Part 3 - Creating a notebook: autoai-notebook/notebook.md
-  - Badge:
-    - How to claim your badge: claim-your-badge/README.md
   - Workshop Resources:
       - IBM Developer: https://developer.ibm.com
 
